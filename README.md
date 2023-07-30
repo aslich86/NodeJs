@@ -79,4 +79,4 @@ node app.js
 
 Aplikasi server Anda akan berjalan di http://localhost:3000, dan setiap kali Anda mengaksesnya, Anda akan melihat pesan "Hello, world!".
 
-Itulah tutorial pengenalan ke Node.js dan NPM. Dengan Node.js, Anda dapat membangun berbagai jenis aplikasi, baik itu situs web, REST API, alat baris perintah, dan banyak lagi. Selamat mencoba dan semoga sukses!
+
